@@ -1,7 +1,7 @@
 {
-  "name": "js-interpreter",
+  "name": "js-interpreter-better",
   "version": "1.4.6",
-  "description": "NPM package for https://github.com/NeilFraser/JS-Interpreter",
+  "description": "NPM package for https://github.com/hsluoyz/JS-Interpreter",
   "main": "lib/index.js",
   "module": "src/interpreter.js",
   "bin": "bin/js-interpreter",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aminmarashi/JS-Interpreter.git"
+    "url": "git+https://github.com/hsluoyz/JS-Interpreter.git"
   },
-  "author": "Amin Marashi",
+  "author": "Yang Luo",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/aminmarashi/JS-Interpreter/issues"
+    "url": "https://github.com/hsluoyz/JS-Interpreter/issues"
   },
-  "homepage": "https://github.com/aminmarashi/JS-Interpreter#readme",
+  "homepage": "https://github.com/hsluoyz/JS-Interpreter#readme",
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
