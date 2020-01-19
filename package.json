@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "acorn": "^4.0.11",
-    "clone": "aminmarashi/clone#d97b4f"
+    "clone": "^2.1.2"
   }
 }
